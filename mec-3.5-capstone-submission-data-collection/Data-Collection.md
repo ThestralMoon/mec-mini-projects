@@ -6,4 +6,4 @@ The VIRAT (Video and Image Retrieval and Analysis Tool) dataset is a collection 
 
 ## COCO Dataset
 
-The COCO (Common Objects in Context) dataset is a large-scale image recognition and captioning dataset 
+The COCO (Common Objects in Context) dataset is a large-scale image recognition and captioning dataset that contains 330k images with over 200k labeled images. The dataset co
